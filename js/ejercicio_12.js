@@ -1,9 +1,9 @@
 //Ejercicio 12
 /*const SalarioInicial=1500;
 
-let IncrementoAnual=0;
-let SalarioConIncre=0;
-let SalarioAcumulado=0;
+let IncrementoAnual;
+let SalarioConIncre;
+let SalarioAcumulado;
 
 for (var i = 1; i <=6; i++) {
     if(i=1)
@@ -22,4 +22,4 @@ for (var i = 1; i <=6; i++) {
  }
 
  console.log(`Su salario durante durante los 6 años es: ${SalarioAcumulado} dolares`);
-*/
+ */

@@ -23,4 +23,3 @@ switch (AniosTrabajados) {
         bono=1000;
   }
 console.log(`El trabajador ${nombre_b} ha laborado ${AniosTrabajados} años y le corresponde un bono: ${bono} dolares`);
-
